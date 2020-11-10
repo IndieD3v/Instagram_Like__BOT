@@ -12,11 +12,9 @@ if(acess != "indev"):
 
 
 amount = 12         #number of posts to like
-hashtag = ("gamedev","indiedev","gameart","gamedesign","indiegamedev","gameartist",
-           "indiegame","gamedeveloper","indiedeveloper","gamedesigner","madewithunity",
-           "python","coding","programming","gamedevelop","gameartists","indiegamelover")
+hashtag = ("")
 
-messages_all = ("Hi","Wasup","This message has been sent by TANMAY's Robot","Bye")
+
 
 
 
@@ -38,8 +36,8 @@ def main():
 
 
     # enter username and password
-    name.send_keys("starlightgames_")
-    password.send_keys("starlightgames3")
+    name.send_keys("")
+    password.send_keys("")
 
 
     #click login
